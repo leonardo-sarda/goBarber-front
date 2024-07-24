@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Form } from '@unform/web';
-
 import { FiMail, FiLock, FiUser, FiArrowLeft } from 'react-icons/fi';
+import { Form } from '../../components/Form';
+
 import logoImg from '../../assets/Logo.svg';
 
 import Input from '../../components/Input';
